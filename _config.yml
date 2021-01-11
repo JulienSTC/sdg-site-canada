@@ -20,7 +20,7 @@ metadata_edit_url: http://prose.io/#sdg-site-canada/sdg-data-canada/edit/develop
 # The list of languages that are translated. The first one is the default.
 languages:
   - en
-  - es
+  - fr
 #
 # That's enough for the Quick Start! The remaining settings can be configured later.
 
@@ -70,8 +70,8 @@ email_contacts:
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Australia
-  adjective: Australian
+  name: Canada
+  adjective: Canadian
 
 # Optionally set a title/body for the frontpage banner. The defaults below point to a standard
 # translation, but feel free to change it as needed.
