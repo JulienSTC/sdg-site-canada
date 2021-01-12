@@ -70,7 +70,7 @@ email_contacts:
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Canada
+  name: Statistics Canada
   adjective: Canadian
 
 # Optionally set a title/body for the frontpage banner. The defaults below point to a standard
